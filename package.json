@@ -1,6 +1,14 @@
 {
   "name": "tinyliveserver",
   "version": "1.0.0",
+  "description": "Tiny http server with live reload capability.",
+  "keywords": [
+    "live",
+    "server",
+    "livereload",
+    "live reload",
+    "auto refresh"
+  ],
   "main": "index.js",
   "bin": "cli.js",
   "repository": "https://jarstone@github.com/jarstone/tinyliveserver.git",
