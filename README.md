@@ -52,6 +52,10 @@ Include as npm script:
 ...
 ```
 
+```bash
+npm run serve
+```
+
 Or using npx:
 
 ```bash
