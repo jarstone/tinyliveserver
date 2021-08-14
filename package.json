@@ -1,0 +1,15 @@
+{
+  "name": "tinyliveserver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": "cli.js",
+  "repository": "https://jarstone@github.com/jarstone/tinyliveserver.git",
+  "author": "jarstone <jarstone.official@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^3.5.2",
+    "colors": "^1.4.0",
+    "faye-websocket": "^0.11.4",
+    "mime-types": "^2.1.32"
+  }
+}
